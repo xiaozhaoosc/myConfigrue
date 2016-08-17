@@ -1,0 +1,9 @@
+Host github.com
+    HostName        github.com
+    User            git
+    IdentityFile    /home/kenzhao/.ssh/github_rsa
+
+Host coding.net
+    HostName        coding.net
+    User            git
+    IdentityFile    /home/kenzhao/.ssh/coding_rsa
